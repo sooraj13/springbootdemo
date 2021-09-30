@@ -8,7 +8,7 @@ public class HomeController {
 	
 	@GetMapping("/")
 	public String getMessage() {
-		return "Hello World From SPringBoot App";
+		return "Hello World From SpringBoot App";
 	}
 
 }
